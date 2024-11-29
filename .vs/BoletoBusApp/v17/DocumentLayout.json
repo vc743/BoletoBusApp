@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\repositories\\asientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\repositories\\asientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\entities\\configuration\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\entities\\configuration\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\dtos\\configuration\\asiento\\asientosaveorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\entities\\configuration\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\entities\\configuration\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\dtos\\configuration\\bus\\bussaveorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 204,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BusRepository.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\BusRepository.cs",
               "RelativeDocumentMoniker": "BoletoBusApp.Data\\Repositories\\BusRepository.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Asiento.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Entities\\Configuration\\Asiento.cs",
               "RelativeDocumentMoniker": "BoletoBusApp.Data\\Entities\\Configuration\\Asiento.cs",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AsientoSaveOrUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoSaveOrUpdateDto.cs",
               "RelativeDocumentMoniker": "BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoSaveOrUpdateDto.cs",
@@ -109,33 +109,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AsientoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
               "RelativeDocumentMoniker": "BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
               "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
               "RelativeToolTip": "BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
-              "ViewState": "AgIAANMAAAAAAAAAAAAiwOEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAiwPAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T00:39:27.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AsientoController.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\AsientoController.cs",
               "RelativeDocumentMoniker": "BoletoBusApp.Api\\Controllers\\AsientoController.cs",
               "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\AsientoController.cs",
               "RelativeToolTip": "BoletoBusApp.Api\\Controllers\\AsientoController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwFoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T01:04:20.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BusController.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\BusController.cs",
               "RelativeDocumentMoniker": "BoletoBusApp.Api\\Controllers\\BusController.cs",
