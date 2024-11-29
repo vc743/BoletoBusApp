@@ -24,7 +24,7 @@ namespace BoletoBusApp.Api.Controllers
             _asientoRepository = asientoRepository;
         }
 
-        // GET: api/<AsientoController>
+        
         [HttpGet("GetAsientos")]
         public async Task<IActionResult> Get()
         {
@@ -38,7 +38,7 @@ namespace BoletoBusApp.Api.Controllers
             return Ok(result);
         }
 
-        // GET api/<AsientoController>/5
+        
         [HttpGet("GetAsientoById")]
         public async Task<IActionResult> Get(int id)
         {
@@ -61,7 +61,7 @@ namespace BoletoBusApp.Api.Controllers
             return Ok(result);
         }
 
-        // POST api/<AsientoController>
+        
         [HttpPost("SaveAsiento")]
         public async Task<IActionResult> Post([FromBody] AsientoSaveOrUpdateDto asientoSaveOrUpdateDto)
         {
@@ -88,18 +88,56 @@ namespace BoletoBusApp.Api.Controllers
             return Ok(result);
         }
 
-        //Hello
-
-        // PUT api/<AsientoController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        
+        [HttpPut("UpdateAsiento")]
+        public async Task<IActionResult> Put(int id, [FromBody] AsientoSaveOrUpdateDto asientoSaveOrUpdateDto)
         {
+            OperationResult<AsientoBusModel> result = null;
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            Asiento asientoToUpdate = new Asiento()
+            {
+                Id = asientoSaveOrUpdateDto.AsientoId,
+                IdBus = asientoSaveOrUpdateDto.BusId,
+                NumeroPiso = asientoSaveOrUpdateDto.NumeroPiso,
+                NumeroAsiento = asientoSaveOrUpdateDto.NumeroAsiento,
+                FechaModificacion = asientoSaveOrUpdateDto.FechaCambio,
+                UsuarioModificacion = asientoSaveOrUpdateDto.UsuarioId
+            };
+
+            result = await _asientoRepository.Update(asientoToUpdate);
+
+            if (!result.Success)
+                return BadRequest(result);
+
+            return Ok(result);
         }
 
-        // DELETE api/<AsientoController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+       
+        [HttpPut("ActiveAsiento")]
+        public async Task<IActionResult> Delete([FromBody] AsientoDisableOrEnableDto asientoDisableOrEnable)
         {
+            OperationResult<AsientoBusModel> result = null;
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            Asiento asientoToUpdate = new Asiento()
+            {
+                Id = asientoDisableOrEnable.AsientoId,
+                UsuarioModificacion = asientoDisableOrEnable.UsuarioId,
+                FechaModificacion = asientoDisableOrEnable.FechaCambio,
+                Estatus = asientoDisableOrEnable.Status
+            };
+
+            result = await _asientoRepository.Remove(asientoToUpdate);
+
+            if (!result.Success)
+                return BadRequest(result);
+
+            return Ok(result);
         }
     }
 }

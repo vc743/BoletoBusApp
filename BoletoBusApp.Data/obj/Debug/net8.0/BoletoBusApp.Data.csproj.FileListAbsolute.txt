@@ -10,3 +10,4 @@ C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\BoletoBus\BoletoBusApp\Bo
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\BoletoBus\BoletoBusApp\BoletoBusApp.Data\obj\Debug\net8.0\refint\BoletoBusApp.Data.dll
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\BoletoBus\BoletoBusApp\BoletoBusApp.Data\obj\Debug\net8.0\BoletoBusApp.Data.pdb
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\BoletoBus\BoletoBusApp\BoletoBusApp.Data\obj\Debug\net8.0\ref\BoletoBusApp.Data.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\BoletoBus\BoletoBusApp\BoletoBusApp.Data\obj\Debug\net8.0\BoletoBusApp.Data.sourcelink.json

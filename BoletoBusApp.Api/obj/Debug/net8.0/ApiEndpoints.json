@@ -1,52 +1,19 @@
 [
   {
     "ContainingType": "BoletoBusApp.Api.Controllers.AsientoController",
-    "Method": "Put",
-    "RelativePath": "api/Asiento/{id}",
+    "Method": "Delete",
+    "RelativePath": "api/Asiento/ActiveAsiento",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "asientoDisableOrEnable",
+        "Type": "BoletoBusApp.Api.Dtos.Configuration.Asiento.AsientoDisableOrEnableDto",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "BoletoBusApp.Api.Controllers.AsientoController",
-    "Method": "Delete",
-    "RelativePath": "api/Asiento/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "BoletoBusApp.Api.Controllers.AsientoController",
@@ -82,6 +49,27 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [
+      {
+        "Name": "asientoSaveOrUpdateDto",
+        "Type": "BoletoBusApp.Api.Dtos.Configuration.Asiento.AsientoSaveOrUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BoletoBusApp.Api.Controllers.AsientoController",
+    "Method": "Put",
+    "RelativePath": "api/Asiento/UpdateAsiento",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
       {
         "Name": "asientoSaveOrUpdateDto",
         "Type": "BoletoBusApp.Api.Dtos.Configuration.Asiento.AsientoSaveOrUpdateDto",

@@ -262,6 +262,7 @@ namespace BoletoBusApp.Data.Repositories
                     return operationResult;
                 }
 
+                asiento.IdBus = entity.IdBus;
                 asiento.NumeroAsiento = entity.NumeroAsiento;
                 asiento.NumeroPiso = entity.NumeroPiso;
                 asiento.FechaModificacion = entity.FechaModificacion;
@@ -276,6 +277,7 @@ namespace BoletoBusApp.Data.Repositories
                 operationResult.Result = new AsientoBusModel()
                 {
                     AsientoId = asiento.Id,
+                    BusId = asiento.IdBus,
                     NumeroAsiento = asiento.NumeroAsiento,
                     NumeroPiso = asiento.NumeroPiso,
                     FechaCreacion = asiento.FechaModificacion.Value,
