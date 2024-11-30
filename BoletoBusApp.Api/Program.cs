@@ -18,6 +18,8 @@ namespace BoletoBusApp.Api
 
             builder.Services.AddTransient<IBusRepository, BusRepository>();
             builder.Services.AddTransient<IAsientoRepository, AsientoRepository>();
+            builder.Services.AddTransient<IRutaRepository, RutaRepository>();
+
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

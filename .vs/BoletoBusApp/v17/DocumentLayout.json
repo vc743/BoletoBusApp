@@ -3,52 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\controllers\\asientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\repositories\\asientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\repositories\\asientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\dtos\\configuration\\ruta\\rutasaveorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\dtos\\configuration\\ruta\\rutasaveorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\entities\\configuration\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\entities\\configuration\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\dtos\\configuration\\asiento\\asientodisableorenabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\dtos\\configuration\\asiento\\asientodisableorenabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\repositories\\rutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\repositories\\rutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\dtos\\configuration\\asiento\\asientosaveorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\dtos\\configuration\\asiento\\asientosaveorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\repositories\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\repositories\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\models\\asientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\models\\asientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\dtos\\configuration\\ruta\\rutadisableorenabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\dtos\\configuration\\ruta\\rutadisableorenabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.api\\dtos\\configuration\\bus\\busdisableorenabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B74ED9C7-D152-4FA0-B3F5-DD251447784F}|BoletoBusApp.Api\\BoletoBusApp.Api.csproj|solutionrelative:boletobusapp.api\\dtos\\configuration\\bus\\busdisableorenabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\interfaces\\iasientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\interfaces\\iasientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\repositories\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\repositories\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\boletobus\\boletobusapp\\boletobusapp.data\\models\\rutamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFFF70-30EA-4C7C-9C31-47B342481531}|BoletoBusApp.Data\\BoletoBusApp.Data.csproj|solutionrelative:boletobusapp.data\\models\\rutamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 204,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,93 +58,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AsientoDisableOrEnableDto.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoDisableOrEnableDto.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoDisableOrEnableDto.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoDisableOrEnableDto.cs",
-              "RelativeToolTip": "BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoDisableOrEnableDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RutaDisableOrEnableDto.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaDisableOrEnableDto.cs",
+              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaDisableOrEnableDto.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaDisableOrEnableDto.cs",
+              "RelativeToolTip": "BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaDisableOrEnableDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:59:03.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Asiento.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Entities\\Configuration\\Asiento.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Data\\Entities\\Configuration\\Asiento.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Entities\\Configuration\\Asiento.cs",
-              "RelativeToolTip": "BoletoBusApp.Data\\Entities\\Configuration\\Asiento.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:48:10.11Z",
+              "WhenOpened": "2024-11-30T01:36:28.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AsientoSaveOrUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoSaveOrUpdateDto.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoSaveOrUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoSaveOrUpdateDto.cs",
-              "RelativeToolTip": "BoletoBusApp.Api\\Dtos\\Configuration\\Asiento\\AsientoSaveOrUpdateDto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAABGAAAAAAAAAA==",
+              "Title": "BusDisableOrEnableDto.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
+              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
+              "RelativeToolTip": "BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:36:41.355Z",
+              "WhenOpened": "2024-11-30T01:31:16.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AsientoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
-              "RelativeToolTip": "BoletoBusApp.Data\\Repositories\\AsientoRepository.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAgwM0AAAAIAAAAAAAAAA==",
+              "Title": "RutaSaveOrUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaSaveOrUpdateDto.cs",
+              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaSaveOrUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaSaveOrUpdateDto.cs",
+              "RelativeToolTip": "BoletoBusApp.Api\\Dtos\\Configuration\\Ruta\\RutaSaveOrUpdateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T00:39:27.614Z",
+              "WhenOpened": "2024-11-30T01:14:20.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AsientoController.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\AsientoController.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Controllers\\AsientoController.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\AsientoController.cs",
-              "RelativeToolTip": "BoletoBusApp.Api\\Controllers\\AsientoController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBoAAAAIAAAAAAAAAA==",
+              "Title": "RutaController.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\RutaController.cs",
+              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Controllers\\RutaController.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\RutaController.cs",
+              "RelativeToolTip": "BoletoBusApp.Api\\Controllers\\RutaController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAA5wGYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T01:04:20.486Z",
+              "WhenOpened": "2024-11-30T00:47:18.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BusController.cs",
               "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\BusController.cs",
               "RelativeDocumentMoniker": "BoletoBusApp.Api\\Controllers\\BusController.cs",
               "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Controllers\\BusController.cs",
               "RelativeToolTip": "BoletoBusApp.Api\\Controllers\\BusController.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAcwI4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv4EAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:21:30.298Z",
+              "WhenOpened": "2024-11-30T00:41:27.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AsientoModel.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Models\\AsientoModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Data\\Models\\AsientoModel.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Models\\AsientoModel.cs",
-              "RelativeToolTip": "BoletoBusApp.Data\\Models\\AsientoModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Title": "RutaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Models\\RutaModel.cs",
+              "RelativeDocumentMoniker": "BoletoBusApp.Data\\Models\\RutaModel.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Models\\RutaModel.cs",
+              "RelativeToolTip": "BoletoBusApp.Data\\Models\\RutaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T01:31:30.015Z",
+              "WhenOpened": "2024-11-29T22:24:50.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RutaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\RutaRepository.cs",
+              "RelativeDocumentMoniker": "BoletoBusApp.Data\\Repositories\\RutaRepository.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\RutaRepository.cs",
+              "RelativeToolTip": "BoletoBusApp.Data\\Repositories\\RutaRepository.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAgwPoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:18:44.549Z",
               "EditorCaption": ""
             },
             {
@@ -171,59 +155,10 @@
               "RelativeDocumentMoniker": "BoletoBusApp.Data\\Repositories\\BusRepository.cs",
               "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Repositories\\BusRepository.cs",
               "RelativeToolTip": "BoletoBusApp.Data\\Repositories\\BusRepository.cs",
-              "ViewState": "AgIAAPEAAAAAAAAAAADwvwoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAIwAEBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T03:07:25.822Z",
+              "WhenOpened": "2024-11-29T22:17:56.76Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BusModel.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Models\\BusModel.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Data\\Models\\BusModel.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Models\\BusModel.cs",
-              "RelativeToolTip": "BoletoBusApp.Data\\Models\\BusModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:23:27.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BusDisableOrEnableDto.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
-              "RelativeToolTip": "BoletoBusApp.Api\\Dtos\\Configuration\\Bus\\BusDisableOrEnableDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:43:13.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Program.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Api\\Program.cs",
-              "RelativeToolTip": "BoletoBusApp.Api\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:09:48.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAsientoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Interfaces\\IAsientoRepository.cs",
-              "RelativeDocumentMoniker": "BoletoBusApp.Data\\Interfaces\\IAsientoRepository.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\BoletoBus\\BoletoBusApp\\BoletoBusApp.Data\\Interfaces\\IAsientoRepository.cs",
-              "RelativeToolTip": "BoletoBusApp.Data\\Interfaces\\IAsientoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T00:11:46.091Z"
             }
           ]
         }

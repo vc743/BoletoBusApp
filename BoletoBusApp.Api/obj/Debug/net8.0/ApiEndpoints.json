@@ -158,6 +158,85 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BoletoBusApp.Api.Controllers.RutaController",
+    "Method": "Delete",
+    "RelativePath": "api/Ruta/ActiveRuta",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rutaDisableOrEnableDto",
+        "Type": "BoletoBusApp.Api.Dtos.Configuration.Ruta.RutaDisableOrEnableDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BoletoBusApp.Api.Controllers.RutaController",
+    "Method": "Get",
+    "RelativePath": "api/Ruta/GetRutaById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BoletoBusApp.Api.Controllers.RutaController",
+    "Method": "Get",
+    "RelativePath": "api/Ruta/GetRutas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BoletoBusApp.Api.Controllers.RutaController",
+    "Method": "Post",
+    "RelativePath": "api/Ruta/SaveRuta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rutaSaveOrUpdateDto",
+        "Type": "BoletoBusApp.Api.Dtos.Configuration.Ruta.RutaSaveOrUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BoletoBusApp.Api.Controllers.RutaController",
+    "Method": "Put",
+    "RelativePath": "api/Ruta/UpdateRuta",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "rutaSaveOrUpdateDto",
+        "Type": "BoletoBusApp.Api.Dtos.Configuration.Ruta.RutaSaveOrUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BoletoBusApp.Api.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletoBusApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ffb63dfe10962c860ea92228395f02e1e58228e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbbf7fb8bb4802c1ec1433f4921983ddfd90a2b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletoBusApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletoBusApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
